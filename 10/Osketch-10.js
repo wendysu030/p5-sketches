@@ -5,7 +5,7 @@ function setup() {
     createLoop({
         gif: {
             options: { quality: 5 },
-            fileName: "Osketch-7.gif",
+            fileName: "Osketch-10.gif",
             startLoop: 0,
             endLoop: 1
         }
